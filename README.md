@@ -6,3 +6,5 @@
 
 
 Since I started programming three years ago, in 2019, my interest has grown more and more, so I created this account on Github to record and encourage my progress, as well as creating a portfolio. 💻
+
+![snake gif](https://github.com/lucas7maciel/lucas7maciel/blob/output/github-contribution-grid-snake.gif)
