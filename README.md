@@ -5,4 +5,4 @@
 - 🌍 Communication in English, German and Portuguese (Native language);
 - 📍   Alagoas, Brazil;
 
-<img src="https://lively-contributions.onrender.com/graph/lucas7maciel/?animation=pacman"  height="130px"  alt="Contributions"  />
+<img src="https://lively-contributions.onrender.com/graph/lucas7maciel/?animation=pacman"  alt="My Contributions"  />
