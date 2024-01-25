@@ -5,4 +5,4 @@
 - 🌍 Communication in English, German and Portuguese (Native language);
 - 📍   Alagoas, Brazil;
 
-I am currently focused on developing web and mobile applications. I have 4 years of experience in programming, and since then I have been improving in areas such as creating interfaces, handling servers and data analysis.
+<img src="https://lively-contributions.onrender.com/graph/lucas7maciel"  height="130px"  alt="Contributions"  />
