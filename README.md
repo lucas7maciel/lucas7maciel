@@ -3,10 +3,8 @@
 Full Stack Developer _(and sometimes Mobile)_. Interested in creating applications that entertain or facilitate everyday life. 
 Whether it's developing interfaces or creating servers, I'm constantly seeking to improve my skills and products. 🧑‍💻
 <br /> <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas7maciel&hide_progress=true)
-
-![Teste](https://www.svgrepo.com/show/532857/cloud-slash.svg)
 ![Teste 2](https://lively-contributions-blush.vercel.app/lucas7maciel/spread?)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas7maciel&hide_progress=true)
 <br /> <br />
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
