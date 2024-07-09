@@ -1,5 +1,5 @@
 # Welcome! 👋
-![Lucas' Contributions](http://lively-contributions-blush.vercel.app/lucas7maciel/scale/?bg=665f00&color=yellow&delay=3)
+![Lucas' Contributions](http://lively-contributions-blush.vercel.app/lucas7maciel/drop/?bg=light&color=purple&delay=3)
 <br /> <br />
 Full Stack Developer _(and sometimes Mobile)_. Interested in creating applications that entertain or facilitate everyday life. 
 Whether it's developing interfaces or creating servers, I'm constantly seeking to improve my skills and products. 🧑‍💻
